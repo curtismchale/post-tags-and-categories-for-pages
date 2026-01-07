@@ -14,6 +14,9 @@
  * GitHub Plugin URI: https://github.com/curtismchale/post-tags-and-categories-for-pages
  */
 
+// block direct file access
+if (! defined('ABSPATH')) exit;
+
 class PTCFP
 {
 
