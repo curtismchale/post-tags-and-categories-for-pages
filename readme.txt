@@ -33,6 +33,7 @@ folder.
 = 1.4.2 =
 
 * updated tested version and PHP supports versions
+* ran plugin check and blocked direct file access
 
 = 1.4 =
 
